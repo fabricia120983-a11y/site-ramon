@@ -1,0 +1,6 @@
+{
+  "name": "Ramon Alberto - Personal Trainer",
+  "description": "Site profissional de Ramon Alberto, Professor de Educação Física com foco em saúde, emagrecimento, qualidade de vida e atendimento humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
